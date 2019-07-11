@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "__id": 1,
+      "name": "hello",
+      "display_name": "hello",
+      "description": "no"
+    },
+    {
+      "id": 2,
+      "name": "hey",
+      "display_name": "hey",
+      "description": "super nice"
+    }
+  ],
+  "products": [
+    {
+      "__id": 1,
+      "category": "hello",
+      "name": 1,
+      "display_name": 1,
+      "description": "no"
+    },
+    {
+      "__id": 2,
+      "category": "hey",
+      "name": 1,
+      "display_name": 1,
+      "description": "no"
+    },
+    {
+      "__id": 3,
+      "category": "hello",
+      "name": 1,
+      "display_name": 1,
+      "description": "no"
+    }
+  ]
+}
