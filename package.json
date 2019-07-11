@@ -1,0 +1,23 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "--verbose --coverage",
+    "json-server": "--watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratiibh-401-advanced-javascript/simple-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratiibh-401-advanced-javascript/simple-api/issues"
+  },
+  "homepage": "https://github.com/pratiibh-401-advanced-javascript/simple-api#readme"
+}
