@@ -5,7 +5,7 @@
 ### Author: Pratiibh Bassi (worked with class)
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/pratiibh-401-advanced-javascript/simple-api/pull/1)
 
 #### Documentation
 * [api docs](https://app.swaggerhub.com/apis/Pratiibh/test-for-lab/0.1#/)
